@@ -1,0 +1,22 @@
+{
+  "name": "udemy",
+  "description": "",
+  "dependencies": {
+    "apollo-server": "2.9.7",
+    "bcryptjs": "2.4.3",
+    "dotenv": "8.2.0",
+    "graphql": "14.5.8",
+    "graphql-tag": "2.11.0",
+    "mongoose": "5.11.9"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js localhost 4000"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "@types/graphql": "14.0.1",
+    "nodemon": "1.18.4"
+  }
+}
